@@ -1,5 +1,5 @@
 <?php
-$my_email = "registration@icaeam.com";
+$my_email = "registration@icaera.com";
 $errors = array();
 
 // Remove $_COOKIE elements from $_REQUEST.
@@ -43,9 +43,9 @@ $message = 'Dear Colleague,
 
 Thank you for registering for ICAERA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@icaeam.com. You can find the copyright form here: www.2019.icaeam.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@icaera.com. You can find the copyright form here: www.2019.icaera.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icaeam.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
+You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icaera.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
 ---
 
@@ -185,7 +185,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>International Conference on<br> Advances in Energy Research and Applications (ICAERA'19)</h1>
-          <p class="subhead">August 13 - 14, 2019 | Lisbon, Portugal</p>
+          <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -213,7 +213,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>International Conference on<br> Advances in Energy Research and Applications (ICAERA'19)</h1>
-          <p class="subhead">August 13 - 14, 2019 | Lisbon, Portugal</p>
+          <p class="subhead">November, 2019 | Orlando, Florida</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -250,7 +250,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
 
-    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icaeam.com" class="body-link">registration@icaeam.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icaera.com" class="body-link">registration@icaera.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
   <p class="body">We are looking forward to seeing you at ICAERA'19!</p>
   </div>
@@ -273,7 +273,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@icaeam.com">info@icaeam.com</a></p>
+    <a href="mailto:info@icaera.com">info@icaera.com</a></p>
     </div>
   </div>
 
