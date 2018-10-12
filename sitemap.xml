@@ -2,113 +2,82 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-   <url>
-
-      <loc>http://www.icaera.com/index.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.icaera.com/papers.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/program.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/dates.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/registration.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/committee.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/keynote.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/sponsor.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/venue.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/accommodation.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icaera.com/symposium.html</loc>
-
-      <lastmod>2017-08-29</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>https://icaera.com/</loc>
+   <lastmod>2018-09-20T17:49:24+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://icaera.com/ICAERA19_CFP.pdf</loc>
+   <lastmod>2018-10-12T20:38:08+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://icaera.com/papers/</loc>
+   <lastmod>2018-09-05T13:36:04+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/program/</loc>
+   <lastmod>2018-09-05T13:36:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/dates/</loc>
+   <lastmod>2018-09-05T13:36:05+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/registration/</loc>
+   <lastmod>2018-09-05T13:36:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/committee/</loc>
+   <lastmod>2018-09-05T13:36:05+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/keynote/</loc>
+   <lastmod>2018-09-05T13:36:04+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/venue/</loc>
+   <lastmod>2018-09-05T13:36:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/accommodation/</loc>
+   <lastmod>2018-09-05T13:36:05+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/past-events/</loc>
+   <lastmod>2018-09-05T13:36:04+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/sponsor/</loc>
+   <lastmod>2018-09-05T13:36:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://icaera.com/symposium/</loc>
+   <lastmod>2018-09-05T13:36:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
 </urlset>
